@@ -2,8 +2,7 @@
 My brand new game, it's a single-screen platformer, you have 20 level to complete and an special gamemode !
 
 # Instructions
-Extract .zip
-Double click .exe
+Extract .zip and double click .exe
 
 # Images
 <table>
