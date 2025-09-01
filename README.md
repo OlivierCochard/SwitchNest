@@ -6,10 +6,10 @@ Extract .zip and double click .exe
 
 # Images
 <table>
-	<img src="Images/game_5_1.png" width="100%"/>
+	<img src="Images/game_5_1.jpg" width="100%"/>
   <tr>
-  	<td><img src="Images/game_5_2.png" width="300"/></td>
-    <td><img src="Images/game_5_3.png" width="300"/></td>
-    <td><img src="Images/game_5_4.png" width="300"/></td>
+  	<td><img src="Images/game_5_2.jpg" width="300"/></td>
+    <td><img src="Images/game_5_3.jpg" width="300"/></td>
+    <td><img src="Images/game_5_4.jpg" width="300"/></td>
   </tr>
 </table>
