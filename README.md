@@ -1,5 +1,5 @@
 # SwitchNest
-My brand new game, it's a single-screen platformer, you have 20 level to complete and an special gamemode !
+My brand new game, it's a single-screen platformer, you have 20 level to complete with special gamemode !
 
 # Instructions
 Extract .zip and double click .exe
